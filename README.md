@@ -9,7 +9,7 @@ Introducing our innovative app that transforms Valorant game chat messages into 
 - Seamlessly integrates with Valorant gameplay.
 
 ## Pricing
-- **Free Usage**: Enjoy up to 100 messages per day for free.
+- **Free Usage**: Enjoy up to 300 messages per day for free.
 - **Premium**: Unlock unlimited messages and access to all features for just $2 per month.
 
 ## Demo
